@@ -98,7 +98,6 @@ div#social{
     margin-top: 24px;
 }
 
-
 div#social a:hover{
     color: var(--destaque-inverso);
     transition: color 0.5s;
